@@ -25,4 +25,4 @@ Layers excite me ;)
 <a href = https://www.instagram.com/apurva_866/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='30' weight='30'/></a>
 
 
-![Apurva's github stats](https://github-readme-stats.vercel.app/api?username=Apurva-tech&show_icons=true&hide_border=false)
+![Apurva's github stats](https://github-readme-stats.vercel.app/api?username=Apurva-tech&show_icons=true&hide_border=false&theme=radical)
