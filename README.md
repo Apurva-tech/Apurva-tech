@@ -11,7 +11,7 @@ Layers excite me ;)
 ### Some more about me
 - 🔭 I’m currently working on Image Processing and Computer Vision
 - 🌱 I’m currently learning Web Development and Natural Language Processing
-- 👯 I’m looking to collaborate on exiting Projects and Hackathons
+- 👯 I’m looking to collaborate on exciting Projects and Hackathons
 - 🤔 I’m looking for help with Web development
 - 💬 Ask me about Data Science and Machine learning
 - 📫 How to reach me: [Linkedin](linkedin.com/in/apurva-sharma-46a091190)
