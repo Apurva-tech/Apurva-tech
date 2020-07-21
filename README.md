@@ -1,4 +1,4 @@
-<p  align="center"><img height="500" src = "https://github.com/Apurva-tech/Apurva-tech/blob/master/Untitled1.mp4"></p>
+<p  align="center"><img  src = "https://github.com/Apurva-tech/Apurva-tech/blob/master/ezgif.com-video-to-gif%20(1).gif"></p>
 
 # Welcome <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 I'm Apurva Sharma. I'm currently a sophomore pursuing my B.Tech Degree from VIT, Vellore. A passionate learner and actively looking for internship opportunity and collaborations with Tech Societies.Skilled in Python (Programming Language), Data Structures, Data Science, C (Programming Language), and Machine Learning.\
