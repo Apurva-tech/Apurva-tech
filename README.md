@@ -1,5 +1,9 @@
 <p  align="center"><img height= "500" src = "https://github.com/Apurva-tech/Apurva-tech/blob/master/final.gif"></p>
 
+
+
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Apurva-tech" alt="Apurva Sharma" /></a></p>
+
 # Welcome <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 I'm Apurva Sharma. I'm currently a sophomore pursuing my B.Tech Degree from VIT, Vellore. A passionate learner and actively looking for internship opportunity and collaborations with Tech Societies.Skilled in Python (Programming Language), Data Structures, Data Science, C (Programming Language), and Machine Learning.
 
@@ -9,14 +13,14 @@ Layers excite me ;)
 
 
 ### Some more about me
-- 🔭 I’m currently working on Image Processing and Computer Vision
-- 🌱 I’m currently learning Web Development and Natural Language Processing
+- 🔭 I’m currently working on Image Processing and Computer Vision, Cloud APIs
+- 🌱 I’m currently learning Competitive Coding, DSA, and Backend
 - 👯 I’m looking to collaborate on exciting Projects and Hackathons
-- 🤔 I’m looking for help with Web development
+- 🤔 I’m looking for help with Deployment of ML projects
 - 💬 Ask me about Data Science and Machine learning
 - 📫 How to reach me: [Linkedin](linkedin.com/in/apurva-sharma-46a091190)
-- 😄 Pronouns: Deep learning enthusiast
-- ⚡ Fun fact: Error 404 - Not found
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I am surprisingly honest :p
 
 <p align = "center">
 <a href =https://github.com/Apurva-tech target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
