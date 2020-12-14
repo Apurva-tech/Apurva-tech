@@ -30,10 +30,11 @@ Layers excite me ;)
   
 ![VisitorCount](https://profile-counter.glitch.me/{Apurva-tech}/count.svg)
 
-![Apurva's github stats](https://github-readme-stats.vercel.app/api?username=Apurva-tech&show_icons=true&hide_border=false&theme=radical)
+# Github Activity📊:
 
- 
-<a align = 'center' href="https://github.com/Apurva-tech/Apurva-tech">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurva-tech&layout=compact" alt="Top Languages" />
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Apurva-tech&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurva-tech&theme=radical&layout=compact" />
 </a>
+
 
