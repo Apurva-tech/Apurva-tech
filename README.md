@@ -23,16 +23,16 @@ Layers excite me ;)
 
 <p align = "center">
 <a href =https://github.com/Apurva-tech target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
-<a href = https://www.linkedin.com/in/apurva-sharma-46a091190/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
-<a href = https://twitter.com/ApurvaS25908634 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/>
-<a href = https://www.instagram.com/apurva_866/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='30' weight='30'/></a>
-  <p align = "center" >Number of visits</p>
+<a href = https://www.linkedin.com/in/apurva866/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
+<a href = https://twitter.com/mindwrapper target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/>
+<a href = https://www.instagram.com/mind.wrapper/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='30' weight='30'/></a>
+<p align = "center" > Number of visits </p>
   
 ![VisitorCount](https://profile-counter.glitch.me/{Apurva-tech}/count.svg)
 
 # Github Activity📊:
 
-<a href="https://github.com/AVS1508" align = "center">
+<a href="https://github.com/Apurva-tech" align = "center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Apurva-tech&theme=radical&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurva-tech&theme=radical&layout=compact" />
 </a>
