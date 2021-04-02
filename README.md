@@ -37,4 +37,5 @@ Layers excite me ;)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurva-tech&theme=radical&layout=compact" />
 </a>
 
-
+<strong><h3>👨‍💻 Week's coding sum </h3></strong>
+[![Apurva's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mindwrapper)](https://github.com/anuraghazra/github-readme-stats)
