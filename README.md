@@ -39,3 +39,7 @@ Layers excite me ;)
 
 <strong><h3>👨‍💻 Week's coding sum </h3></strong>
 [![Apurva's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mindwrapper)](https://github.com/anuraghazra/github-readme-stats)
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
