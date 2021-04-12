@@ -43,6 +43,6 @@ Layers excite me ;)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/0x-45/saaraansh/pull/1) in [0x-45/saaraansh](https://github.com/0x-45/saaraansh)
-2. 🗣 Commented on [#782](https://github.com/Nivedita967/Data-Structure-and-Algorithms/issues/782) in [Nivedita967/Data-Structure-and-Algorithms](https://github.com/Nivedita967/Data-Structure-and-Algorithms)
+1. 🎉 Merged PR [#48](https://github.com/CrewMates-Open-Source/EduHelp/pull/48) in [CrewMates-Open-Source/EduHelp](https://github.com/CrewMates-Open-Source/EduHelp)
+2. ❗️ Closed issue [#34](https://github.com/CrewMates-Open-Source/EduHelp/issues/34) in [CrewMates-Open-Source/EduHelp](https://github.com/CrewMates-Open-Source/EduHelp)
 <!--END_SECTION:activity-->
