@@ -34,7 +34,7 @@ Layers excite me ;)
 
 <a href="https://github.com/Apurva-tech" align = "center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Apurva-tech&theme=radical&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurva-tech&theme=radical&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurva-tech&theme=radical&layout=compact&hide=Jupyter%20Notebook" />
 </a>
 
 <strong><h3>👨‍💻 Week's coding sum </h3></strong>
