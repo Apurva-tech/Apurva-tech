@@ -43,6 +43,6 @@ Layers excite me ;)
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#48](https://github.com/CrewMates-Open-Source/EduHelp/pull/48) in [CrewMates-Open-Source/EduHelp](https://github.com/CrewMates-Open-Source/EduHelp)
-2. ❗️ Closed issue [#34](https://github.com/CrewMates-Open-Source/EduHelp/issues/34) in [CrewMates-Open-Source/EduHelp](https://github.com/CrewMates-Open-Source/EduHelp)
+1. 🎉 Merged PR [#51](https://github.com/CrewMates-Open-Source/EduHelp/pull/51) in [CrewMates-Open-Source/EduHelp](https://github.com/CrewMates-Open-Source/EduHelp)
+2. 🎉 Merged PR [#48](https://github.com/CrewMates-Open-Source/EduHelp/pull/48) in [CrewMates-Open-Source/EduHelp](https://github.com/CrewMates-Open-Source/EduHelp)
 <!--END_SECTION:activity-->
