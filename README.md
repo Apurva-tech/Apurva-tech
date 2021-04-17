@@ -32,15 +32,30 @@ Layers excite me ;)
 
 # Github Activity📊:
 
-<a href="https://github.com/Apurva-tech" align = "center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Apurva-tech&theme=radical&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurva-tech&theme=radical&layout=compact&hide=Jupyter%20Notebook" />
-</a>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Apurva-tech&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurva-tech&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Apurva-tech&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
+     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=mindwrapper" align="right" display=block width=100% height=auto  alt="4"   >
+  </td>
+  </tr>
+</table>
 
-<strong><h3>👨‍💻 Week's coding sum </h3></strong>
-[![Apurva's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mindwrapper)](https://github.com/anuraghazra/github-readme-stats)
+# Productivity Stats📈:
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apurva-tech&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=Apurva-tech&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+  </td>
+  </tr>
+</table>
 
-### :zap: Recent Activity
+### Recent Activity⚡
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#51](https://github.com/CrewMates-Open-Source/EduHelp/pull/51) in [CrewMates-Open-Source/EduHelp](https://github.com/CrewMates-Open-Source/EduHelp)
