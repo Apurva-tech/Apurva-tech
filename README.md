@@ -39,7 +39,7 @@ Layers excite me ;)
    </tr> 
    <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Apurva-tech&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
-     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=mindwrapper" align="right" display=block width=100% height=auto  alt="4"   >
+     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=mindwrapper&custom_title=My%20Weekly%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
   </td>
   </tr>
 </table>
