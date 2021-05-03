@@ -10,7 +10,7 @@ I'm Apurva Sharma. I'm currently a sophomore pursuing my B.Tech Degree from VIT,
 
 <img src="https://miro.medium.com/max/3034/1*WI43epHjl6I6FzBVPzvXAQ.gif" alt="AI GIF"  height="400">
 
-## [My Resume](https://drive.google.com/file/d/1h0KkRu0gjHe8AqEViGfUAlbzL1sddaN5/view?usp=sharing)
+## [My Resume](https://drive.google.com/file/d/1_seQOHTirAORBljBFnmpb33opY-YM_qS/view?usp=sharing)
 
 ### Some more about me
 - 🔭 I’m currently working on Image Processing and Computer Vision, Cloud APIs
