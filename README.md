@@ -61,6 +61,6 @@ I'm Apurva Sharma. I'm currently a sophomore pursuing my B.Tech Degree from VIT,
 # Recent Activity⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/CrewMates-Open-Source/EduHelp/pull/51) in [CrewMates-Open-Source/EduHelp](https://github.com/CrewMates-Open-Source/EduHelp)
-2. 🎉 Merged PR [#48](https://github.com/CrewMates-Open-Source/EduHelp/pull/48) in [CrewMates-Open-Source/EduHelp](https://github.com/CrewMates-Open-Source/EduHelp)
+1. 💪 Opened PR [#2794](https://github.com/education/GitHubGraduation-2021/pull/2794) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
+2. 🎉 Merged PR [#51](https://github.com/CrewMates-Open-Source/EduHelp/pull/51) in [CrewMates-Open-Source/EduHelp](https://github.com/CrewMates-Open-Source/EduHelp)
 <!--END_SECTION:activity-->
