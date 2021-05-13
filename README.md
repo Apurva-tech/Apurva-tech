@@ -4,7 +4,7 @@
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Apurva-tech&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Apurva Sharma" /></a></p>
 
 # Welcome <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
-I'm Apurva Sharma. I'm currently a sophomore pursuing my B.Tech Degree from VIT, Vellore. A passionate learner, ML developer and actively looking for internship opportunity and collaborations with Tech Societies. Skilled in Python (Programming Language), C++, C, Data Structures, Data Science, and Machine Learning.
+I'm Apurva Sharma.I am currently a sophomore at VIT, Vellore, pursuing B.Tech in CSE. Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and learning web development. I'm skilled in data science and machine learning. And I am a professional Technical writer..
 
 ### Layers excite me ;)
 
