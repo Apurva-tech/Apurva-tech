@@ -13,7 +13,7 @@ I'm Apurva Sharma.I am currently a sophomore at VIT, Vellore, pursuing B.Tech in
 ## [My Resume](https://drive.google.com/file/d/1_seQOHTirAORBljBFnmpb33opY-YM_qS/view?usp=sharing)
 
 ### Some more about me
-- 🔭 I’m currently working on Image Processing and Computer Vision, Cloud APIs
+- 🔭 I’m currently working on Web Development using Node.js and Express 
 - 🌱 I’m currently learning Competitive Coding, DSA, and Backend
 - 👯 I’m looking to collaborate on exciting Projects and Hackathons
 - 🤔 I’m looking for help with Deployment of ML projects
