@@ -61,6 +61,6 @@ I'm Apurva Sharma.I am currently a sophomore at VIT, Vellore, pursuing B.Tech in
 # Recent Activity⚡
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2794](https://github.com/education/GitHubGraduation-2021/pull/2794) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-2. 🎉 Merged PR [#51](https://github.com/CrewMates-Open-Source/EduHelp/pull/51) in [CrewMates-Open-Source/EduHelp](https://github.com/CrewMates-Open-Source/EduHelp)
+1. 🎉 Merged PR [#22](https://github.com/AritriBasu/SmartStart/pull/22) in [AritriBasu/SmartStart](https://github.com/AritriBasu/SmartStart)
+2. 💪 Opened PR [#22](https://github.com/AritriBasu/SmartStart/pull/22) in [AritriBasu/SmartStart](https://github.com/AritriBasu/SmartStart)
 <!--END_SECTION:activity-->
