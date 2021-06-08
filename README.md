@@ -61,6 +61,6 @@ I'm Apurva Sharma.I am currently a sophomore at VIT, Vellore, pursuing B.Tech in
 # Recent Activity⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/AritriBasu/SmartStart/pull/24) in [AritriBasu/SmartStart](https://github.com/AritriBasu/SmartStart)
-2. 💪 Opened PR [#24](https://github.com/AritriBasu/SmartStart/pull/24) in [AritriBasu/SmartStart](https://github.com/AritriBasu/SmartStart)
+1. 💪 Opened PR [#1](https://github.com/44t4nk1/chlorophyll/pull/1) in [44t4nk1/chlorophyll](https://github.com/44t4nk1/chlorophyll)
+2. 🎉 Merged PR [#24](https://github.com/AritriBasu/SmartStart/pull/24) in [AritriBasu/SmartStart](https://github.com/AritriBasu/SmartStart)
 <!--END_SECTION:activity-->
