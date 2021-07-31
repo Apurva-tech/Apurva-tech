@@ -57,11 +57,7 @@ I'm Apurva Sharma.I am currently a sophomore at VIT, Vellore, pursuing B.Tech in
   </tr>
 </table>
 
-## Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31fdtcvh3nhrcv4e6kyas7vcyf4u)
-
- <br>
+<br> 
 
 # Recent Activity⚡
 
