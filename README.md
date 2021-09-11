@@ -29,10 +29,15 @@ I'm Apurva Sharma. I am currently a Junior at VIT, Vellore, pursuing B.Tech in C
 
 <hr>
 
-<p align = "center" > Number of visits <br> 
+<h3 align="center">Visitor Count</h3>
+<p align="center">
   
   ![VisitorCount](https://profile-counter.glitch.me/{Apurva-tech}/count.svg) 
+  
+  
 </p>
+
+<hr>
 
 # Github Activity📊:
 
