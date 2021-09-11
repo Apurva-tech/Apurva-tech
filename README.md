@@ -4,11 +4,7 @@
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Apurva-tech&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Apurva Sharma" /></a></p>
 
 # Welcome <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
-I'm Apurva Sharma.I am currently a sophomore at VIT, Vellore, pursuing B.Tech in CSE. Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and learning web development. I'm skilled in data science and machine learning. And I am a professional Technical writer..
-
-### Layers excite me ;)
-
-<img src="https://miro.medium.com/max/3034/1*WI43epHjl6I6FzBVPzvXAQ.gif" alt="AI GIF"  height="400">
+I'm Apurva Sharma. I am currently a Junior at VIT, Vellore, pursuing B.Tech in CSE. Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and learning web development. I'm skilled in data science and machine learning. And I am a professional Technical writer.
 
 ## [My Resume](https://drive.google.com/file/d/1_seQOHTirAORBljBFnmpb33opY-YM_qS/view?usp=sharing)
 
@@ -17,16 +13,22 @@ I'm Apurva Sharma.I am currently a sophomore at VIT, Vellore, pursuing B.Tech in
 - 🌱 I’m currently learning Competitive Coding, DSA, and Backend
 - 👯 I’m looking to collaborate on exciting Projects and Hackathons
 - 🤔 I’m looking for help with Deployment of ML projects
-- 💬 Ask me about Data Science and Machine learning
+- 💬 Ask me about DSA
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/apurva866)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am surprisingly honest :p
 
-<p align = "center">
-<a href =https://github.com/Apurva-tech target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
-<a href = https://www.linkedin.com/in/apurva866/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
-<a href = https://twitter.com/mindwrapper target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/>
-<a href = https://www.instagram.com/mind.wrapper/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='30' weight='30'/></a>
+<hr>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/mindwrapper" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="mindwrapper" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/apurva866/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="apurva866" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/mind.wrapper" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="mind.wrapper" height="50" width="50" /></a>
+</p>
+
+<hr>
+
 <p align = "center" > Number of visits <br> 
   
   ![VisitorCount](https://profile-counter.glitch.me/{Apurva-tech}/count.svg) 
@@ -59,9 +61,6 @@ I'm Apurva Sharma.I am currently a sophomore at VIT, Vellore, pursuing B.Tech in
 
 <br> 
 
-# Recent Activity⚡
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/44t4nk1/chlorophyll/pull/2) in [44t4nk1/chlorophyll](https://github.com/44t4nk1/chlorophyll)
-2. 💪 Opened PR [#1](https://github.com/44t4nk1/chlorophyll/pull/1) in [44t4nk1/chlorophyll](https://github.com/44t4nk1/chlorophyll)
-<!--END_SECTION:activity-->
+<p align="center">
+  <img src="https://github.com/Apurva-tech/Apurva-tech/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
