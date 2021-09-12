@@ -6,6 +6,12 @@
 # Welcome <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 I'm Apurva Sharma. I am currently a Junior at VIT, Vellore, pursuing B.Tech in CSE. Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and learning web development. I'm skilled in data science and machine learning. And I am a professional Technical writer.
 
+
+<p align="center">
+  <img src="https://github.com/Apurva-tech/Apurva-tech/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+
 ## [My Resume](https://drive.google.com/file/d/1_seQOHTirAORBljBFnmpb33opY-YM_qS/view?usp=sharing)
 
 ### Some more about me
@@ -65,7 +71,3 @@ I'm Apurva Sharma. I am currently a Junior at VIT, Vellore, pursuing B.Tech in C
 </table>
 
 <br> 
-
-<p align="center">
-  <img src="https://github.com/Apurva-tech/Apurva-tech/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
