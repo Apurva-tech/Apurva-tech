@@ -12,7 +12,7 @@ I'm Apurva Sharma. I am currently a Junior at VIT, Vellore, pursuing B.Tech in C
 </p>
 
 
-## [My Resume](https://drive.google.com/file/d/1_seQOHTirAORBljBFnmpb33opY-YM_qS/view?usp=sharing)
+## [My Resume](https://drive.google.com/file/d/1Z9sQNEspMtlJEdX6I8CYVJ4DWhGh3uR3/view?usp=sharing)
 
 ### Some more about me
 - 🔭 I’m currently working on Web Development using Node.js and Express 
