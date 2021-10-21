@@ -26,6 +26,7 @@ I'm Apurva Sharma. I am currently a Junior at VIT, Vellore, pursuing B.Tech in C
 
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
+
 1. 🗣 Commented on [#18](https://github.com/MLH-Fellowship/prep-project-4.1.0/issues/18) in [MLH-Fellowship/prep-project-4.1.0](https://github.com/MLH-Fellowship/prep-project-4.1.0)
 2. 💪 Opened PR [#17](https://github.com/MLH-Fellowship/prep-project-4.1.0/pull/17) in [MLH-Fellowship/prep-project-4.1.0](https://github.com/MLH-Fellowship/prep-project-4.1.0)
 3. ❗️ Closed issue [#29](https://github.com/MLH-Fellowship/pod-4.1.0-portfolio/issues/29) in [MLH-Fellowship/pod-4.1.0-portfolio](https://github.com/MLH-Fellowship/pod-4.1.0-portfolio)
@@ -36,6 +37,7 @@ I'm Apurva Sharma. I am currently a Junior at VIT, Vellore, pursuing B.Tech in C
 8. 💪 Opened PR [#69](https://github.com/MLH-Fellowship/pod-4.1.0-portfolio/pull/69) in [MLH-Fellowship/pod-4.1.0-portfolio](https://github.com/MLH-Fellowship/pod-4.1.0-portfolio)
 9. 💪 Opened PR [#63](https://github.com/MLH-Fellowship/pod-4.1.0-portfolio/pull/63) in [MLH-Fellowship/pod-4.1.0-portfolio](https://github.com/MLH-Fellowship/pod-4.1.0-portfolio)
 10. ❗️ Opened issue [#48](https://github.com/MLH-Fellowship/pod-4.1.0-portfolio/issues/48) in [MLH-Fellowship/pod-4.1.0-portfolio](https://github.com/MLH-Fellowship/pod-4.1.0-portfolio)
+
 <!--END_SECTION:activity-->
 
 <hr>
