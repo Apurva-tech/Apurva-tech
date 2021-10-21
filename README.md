@@ -70,9 +70,7 @@ I'm Apurva Sharma. I am currently a Junior at VIT, Vellore, pursuing B.Tech in C
   </tr>
 </table>
 
-<br> 
-
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
+
