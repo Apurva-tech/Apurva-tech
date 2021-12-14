@@ -54,7 +54,6 @@ I'm Apurva Sharma. I am currently a Junior at VIT, Vellore, pursuing B.Tech in C
   
   ![VisitorCount](https://profile-counter.glitch.me/{Apurva-tech}/count.svg) 
   
-  
 </p>
 
 <hr>
