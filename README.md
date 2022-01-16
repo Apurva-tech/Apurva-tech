@@ -19,7 +19,7 @@ I'm Apurva Sharma. I am currently a Junior at VIT, Vellore, pursuing B.Tech in C
 - 💬 Ask me about DSA
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/apurva866)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am surprisingly honest :p
+- ⚡ Fun fact: Tabs >>>>> Spaces
 
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
