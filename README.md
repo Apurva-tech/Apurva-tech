@@ -64,6 +64,15 @@ I'm Apurva Sharma. I am currently a Junior at VIT, Vellore, pursuing B.Tech in C
 
 </p>
 
+<details>
+	<summary><strong> 🌐 Latest Tweets🐦</strong></summary>
+	<p>
+		<a align="center" href="https://twitter.com/mindwrapper">
+			<img src="https://github-readme-twitter.gazf.vercel.app/api?id=mindwrapper&layout=wide&show_retweet=off&show_reply=off?" />
+		</a>	
+	</p>
+</details>
+
 <hr>
 
 <h3 align="center">Visitor Count</h3>
