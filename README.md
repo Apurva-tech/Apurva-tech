@@ -47,10 +47,6 @@ I'm Apurva Sharma. I am currently a Junior at VIT, Vellore, pursuing B.Tech in C
 </p> -->
 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/apurvatech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="apurvatech" height="30" width="40" /></a>
