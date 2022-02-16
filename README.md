@@ -2,10 +2,9 @@
  -->
 
 # Welcome <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
-I'm Apurva Sharma. I am currently a Junior at VIT, Vellore, pursuing B.Tech in CSE. Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and learning web development. I'm skilled in machine learning. And I am a professional Technical writer.
+I'm a 2023 CS undergrad. Currently learning Data Structures and Algorithms, while understanding and implementing the fundamentals of computer engineering and learning web development - React. I'm skilled in machine learning. And I am a professional Technical writer.
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Apurva-tech&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Apurva Sharma" /></a></p>
-
 
 <p align="center">
   <img src="https://github.com/Apurva-tech/Apurva-tech/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
@@ -16,7 +15,7 @@ I'm Apurva Sharma. I am currently a Junior at VIT, Vellore, pursuing B.Tech in C
 - 🔭 I’m currently working on Web Development using Node.js and Express 
 - 🌱 I’m currently learning Competitive Coding, DSA, and Backend
 - 👯 I’m looking to collaborate on exciting Projects and Hackathons
-- 🤔 I’m looking for help with Deployment of ML projects
+- 🤔 I’m looking for help with React
 - 💬 Ask me about DSA
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/apurva866)
 - 😄 Pronouns: She/Her
