@@ -24,11 +24,11 @@ I'm a 2023 CS undergrad. Currently learning Data Structures and Algorithms, whil
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#23895](https://github.com/microsoft/fluentui/pull/23895) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-2. 💪 Opened PR [#23886](https://github.com/microsoft/fluentui/pull/23886) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-3. 💪 Opened PR [#23810](https://github.com/microsoft/fluentui/pull/23810) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-4. ❗️ Closed issue [#29](https://github.com/MLH-Fellowship/pod-4.1.0-portfolio/issues/29) in [MLH-Fellowship/pod-4.1.0-portfolio](https://github.com/MLH-Fellowship/pod-4.1.0-portfolio)
-5. ❗️ Closed issue [#38](https://github.com/MLH-Fellowship/pod-4.1.0-portfolio/issues/38) in [MLH-Fellowship/pod-4.1.0-portfolio](https://github.com/MLH-Fellowship/pod-4.1.0-portfolio)
+1. 💪 Opened PR [#23932](https://github.com/microsoft/fluentui/pull/23932) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+2. ❌ Closed PR [#23886](https://github.com/microsoft/fluentui/pull/23886) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+3. 💪 Opened PR [#23895](https://github.com/microsoft/fluentui/pull/23895) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+4. 💪 Opened PR [#23886](https://github.com/microsoft/fluentui/pull/23886) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+5. 💪 Opened PR [#23810](https://github.com/microsoft/fluentui/pull/23810) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
 6. ❗️ Closed issue [#41](https://github.com/MLH-Fellowship/pod-4.1.0-portfolio/issues/41) in [MLH-Fellowship/pod-4.1.0-portfolio](https://github.com/MLH-Fellowship/pod-4.1.0-portfolio)
 7. ❗️ Closed issue [#48](https://github.com/MLH-Fellowship/pod-4.1.0-portfolio/issues/48) in [MLH-Fellowship/pod-4.1.0-portfolio](https://github.com/MLH-Fellowship/pod-4.1.0-portfolio)
 8. 🗣 Commented on [#60](https://github.com/MLH-Fellowship/pod-4.1.0-portfolio/issues/60) in [MLH-Fellowship/pod-4.1.0-portfolio](https://github.com/MLH-Fellowship/pod-4.1.0-portfolio)
