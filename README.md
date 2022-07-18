@@ -24,13 +24,13 @@ I'm a 2023 CS undergrad. Currently learning Data Structures and Algorithms, whil
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#23932](https://github.com/microsoft/fluentui/pull/23932) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-2. ❌ Closed PR [#23886](https://github.com/microsoft/fluentui/pull/23886) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-3. 💪 Opened PR [#23895](https://github.com/microsoft/fluentui/pull/23895) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-4. 💪 Opened PR [#23886](https://github.com/microsoft/fluentui/pull/23886) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-5. 💪 Opened PR [#23810](https://github.com/microsoft/fluentui/pull/23810) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-6. ❗️ Closed issue [#41](https://github.com/MLH-Fellowship/pod-4.1.0-portfolio/issues/41) in [MLH-Fellowship/pod-4.1.0-portfolio](https://github.com/MLH-Fellowship/pod-4.1.0-portfolio)
-7. ❗️ Closed issue [#48](https://github.com/MLH-Fellowship/pod-4.1.0-portfolio/issues/48) in [MLH-Fellowship/pod-4.1.0-portfolio](https://github.com/MLH-Fellowship/pod-4.1.0-portfolio)
+1. 🗣 Commented on [#2](https://github.com/Apurva-tech/unite/issues/2) in [Apurva-tech/unite](https://github.com/Apurva-tech/unite)
+2. ❌ Closed PR [#23810](https://github.com/microsoft/fluentui/pull/23810) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+3. 💪 Opened PR [#23932](https://github.com/microsoft/fluentui/pull/23932) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+4. ❌ Closed PR [#23886](https://github.com/microsoft/fluentui/pull/23886) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+5. 💪 Opened PR [#23895](https://github.com/microsoft/fluentui/pull/23895) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+6. 💪 Opened PR [#23886](https://github.com/microsoft/fluentui/pull/23886) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+7. 💪 Opened PR [#23810](https://github.com/microsoft/fluentui/pull/23810) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
 8. 🗣 Commented on [#60](https://github.com/MLH-Fellowship/pod-4.1.0-portfolio/issues/60) in [MLH-Fellowship/pod-4.1.0-portfolio](https://github.com/MLH-Fellowship/pod-4.1.0-portfolio)
 9. 💪 Opened PR [#69](https://github.com/MLH-Fellowship/pod-4.1.0-portfolio/pull/69) in [MLH-Fellowship/pod-4.1.0-portfolio](https://github.com/MLH-Fellowship/pod-4.1.0-portfolio)
 10. 💪 Opened PR [#63](https://github.com/MLH-Fellowship/pod-4.1.0-portfolio/pull/63) in [MLH-Fellowship/pod-4.1.0-portfolio](https://github.com/MLH-Fellowship/pod-4.1.0-portfolio)
