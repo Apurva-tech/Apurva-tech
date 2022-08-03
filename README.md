@@ -24,16 +24,16 @@ I'm a 2023 CS undergrad. Currently learning Data Structures and Algorithms, whil
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/Apurva-tech/fluentui/pull/5) in [Apurva-tech/fluentui](https://github.com/Apurva-tech/fluentui)
-2. 💪 Opened PR [#5](https://github.com/Apurva-tech/fluentui/pull/5) in [Apurva-tech/fluentui](https://github.com/Apurva-tech/fluentui)
-3. 🗣 Commented on [#2](https://github.com/Apurva-tech/unite/issues/2) in [Apurva-tech/unite](https://github.com/Apurva-tech/unite)
-4. ❌ Closed PR [#23810](https://github.com/microsoft/fluentui/pull/23810) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-5. 💪 Opened PR [#23932](https://github.com/microsoft/fluentui/pull/23932) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-6. ❌ Closed PR [#23886](https://github.com/microsoft/fluentui/pull/23886) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-7. 💪 Opened PR [#23895](https://github.com/microsoft/fluentui/pull/23895) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-8. 💪 Opened PR [#23886](https://github.com/microsoft/fluentui/pull/23886) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-9. 💪 Opened PR [#23810](https://github.com/microsoft/fluentui/pull/23810) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-10. 💪 Opened PR [#63](https://github.com/MLH-Fellowship/pod-4.1.0-portfolio/pull/63) in [MLH-Fellowship/pod-4.1.0-portfolio](https://github.com/MLH-Fellowship/pod-4.1.0-portfolio)
+1. ❗️ Closed issue [#2](https://github.com/Apurva-tech/unite/issues/2) in [Apurva-tech/unite](https://github.com/Apurva-tech/unite)
+2. 🎉 Merged PR [#5](https://github.com/Apurva-tech/fluentui/pull/5) in [Apurva-tech/fluentui](https://github.com/Apurva-tech/fluentui)
+3. 💪 Opened PR [#5](https://github.com/Apurva-tech/fluentui/pull/5) in [Apurva-tech/fluentui](https://github.com/Apurva-tech/fluentui)
+4. 🗣 Commented on [#2](https://github.com/Apurva-tech/unite/issues/2) in [Apurva-tech/unite](https://github.com/Apurva-tech/unite)
+5. ❌ Closed PR [#23810](https://github.com/microsoft/fluentui/pull/23810) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+6. 💪 Opened PR [#23932](https://github.com/microsoft/fluentui/pull/23932) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+7. ❌ Closed PR [#23886](https://github.com/microsoft/fluentui/pull/23886) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+8. 💪 Opened PR [#23895](https://github.com/microsoft/fluentui/pull/23895) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+9. 💪 Opened PR [#23886](https://github.com/microsoft/fluentui/pull/23886) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+10. 💪 Opened PR [#23810](https://github.com/microsoft/fluentui/pull/23810) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
 
 <!--END_SECTION:activity-->
 
