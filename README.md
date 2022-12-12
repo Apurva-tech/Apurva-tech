@@ -60,15 +60,6 @@ I'm a 2023 CS undergrad. Currently learning Data Structures and Algorithms, whil
 
 </p>
 
-<details>
-	<summary><strong> 🌐 Latest Tweets🐦</strong></summary>
-	<p>
-		<a align="center" href="https://twitter.com/mindwrapper">
-			<img src="https://github-readme-twitter.gazf.vercel.app/api?id=mindwrapper&layout=wide&show_retweet=off&show_reply=off?" />
-		</a>	
-	</p>
-</details>
-
 <hr>
 
 <h3 align="center">Visitor Count</h3>
@@ -98,9 +89,5 @@ I'm a 2023 CS undergrad. Currently learning Data Structures and Algorithms, whil
 <table>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apurva-tech&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
-   </tr> 
-   <tr>
-      <td><img src="https://activity-graph.herokuapp.com/graph?username=Apurva-tech&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
-  </td>
-  </tr>
+   </tr>
 </table>
