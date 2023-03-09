@@ -24,8 +24,8 @@ I'm a 2023 CS undergrad. Currently learning Data Structures and Algorithms, whil
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#29703](https://github.com/mui/material-ui/issues/29703) in [mui/material-ui](https://github.com/mui/material-ui)
-2. 🎉 Merged PR [#5](https://github.com/Apurva-tech/fluentui/pull/5) in [Apurva-tech/fluentui](https://github.com/Apurva-tech/fluentui)
+1. 🗣 Commented on [#3](https://github.com/Apurva-tech/unite/issues/3) in [Apurva-tech/unite](https://github.com/Apurva-tech/unite)
+2. 🗣 Commented on [#29703](https://github.com/mui/material-ui/issues/29703) in [mui/material-ui](https://github.com/mui/material-ui)
 3. 💪 Opened PR [#5](https://github.com/Apurva-tech/fluentui/pull/5) in [Apurva-tech/fluentui](https://github.com/Apurva-tech/fluentui)
 4. 🗣 Commented on [#2](https://github.com/Apurva-tech/unite/issues/2) in [Apurva-tech/unite](https://github.com/Apurva-tech/unite)
 5. ❌ Closed PR [#23810](https://github.com/microsoft/fluentui/pull/23810) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
