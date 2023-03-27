@@ -24,10 +24,10 @@ I'm a 2023 CS undergrad. Currently learning Data Structures and Algorithms, whil
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3](https://github.com/Apurva-tech/unite/issues/3) in [Apurva-tech/unite](https://github.com/Apurva-tech/unite)
-2. 🗣 Commented on [#29703](https://github.com/mui/material-ui/issues/29703) in [mui/material-ui](https://github.com/mui/material-ui)
-3. 💪 Opened PR [#5](https://github.com/Apurva-tech/fluentui/pull/5) in [Apurva-tech/fluentui](https://github.com/Apurva-tech/fluentui)
-4. 🗣 Commented on [#2](https://github.com/Apurva-tech/unite/issues/2) in [Apurva-tech/unite](https://github.com/Apurva-tech/unite)
+1. 🗣 Commented on [#1](https://github.com/S-Bobbiti/PathPlanning-GeneticAlgorithm/issues/1) in [S-Bobbiti/PathPlanning-GeneticAlgorithm](https://github.com/S-Bobbiti/PathPlanning-GeneticAlgorithm)
+2. ❗️ Opened issue [#1](https://github.com/S-Bobbiti/PathPlanning-GeneticAlgorithm/issues/1) in [S-Bobbiti/PathPlanning-GeneticAlgorithm](https://github.com/S-Bobbiti/PathPlanning-GeneticAlgorithm)
+3. 🗣 Commented on [#3](https://github.com/Apurva-tech/unite/issues/3) in [Apurva-tech/unite](https://github.com/Apurva-tech/unite)
+4. 🗣 Commented on [#29703](https://github.com/mui/material-ui/issues/29703) in [mui/material-ui](https://github.com/mui/material-ui)
 5. ❌ Closed PR [#23810](https://github.com/microsoft/fluentui/pull/23810) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
 6. 💪 Opened PR [#23932](https://github.com/microsoft/fluentui/pull/23932) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
 7. ❌ Closed PR [#23886](https://github.com/microsoft/fluentui/pull/23886) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
