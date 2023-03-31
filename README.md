@@ -12,11 +12,12 @@ I'm a 2023 CS undergrad. Currently learning Data Structures and Algorithms, whil
 
 
 ### Some more about me
-- 🔭 I’m currently working on Web Development using Node.js and Express 
-- 🌱 I’m currently learning Competitive Coding, DSA, and Backend
+- 💻 Work status: I am currently working with Solesca, a pioneering early-stage startup that is revolutionizing the agricultural industry. In this role, I am learning React-Typescript and Redux and am responsible for handling the user interface frontend. This position provides me with an exciting opportunity to apply my skills and knowledge to contribute to the success of this innovative venture.
+- 🔭 I’m currently working on Frontend React-Typescript. 
+- 🌱 I’m currently learning DSA and looking for opportunities to work on the backend. 
 - 👯 I’m looking to collaborate on exciting Projects and Hackathons
-- 🤔 I’m looking for help with React
-- 💬 Ask me about DSA
+- 🤔 I’m looking for help with Backend
+- 💬 Ask me about Frontend and React-Typescript
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/apurva866)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Tabs >>>>> Spaces
