@@ -25,9 +25,9 @@ I am a 2023 CS undergrad gaining experience in Backend and implementing computer
 <h3> Recent Activity </h3>
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#20965](https://github.com/microsoft/azure-pipelines-tasks/issues/20965) in [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
-2. ❗ Opened issue [#1](https://github.com/S-Bobbiti/PathPlanning-GeneticAlgorithm/issues/1) in [S-Bobbiti/PathPlanning-GeneticAlgorithm](https://github.com/S-Bobbiti/PathPlanning-GeneticAlgorithm)
-3. 🗣 Commented on [#3](https://github.com/Apurva-tech/unite/issues/3) in [Apurva-tech/unite](https://github.com/Apurva-tech/unite)
+1. 🗣 Commented on [#20965](https://github.com/microsoft/azure-pipelines-tasks/issues/20965#issuecomment-2778507627) in [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
+2. 🔒 Closed issue [#20965](https://github.com/microsoft/azure-pipelines-tasks/issues/20965) in [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
+3. ❗ Opened issue [#20965](https://github.com/microsoft/azure-pipelines-tasks/issues/20965) in [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks)
 4. 🗣 Commented on [#29703](https://github.com/mui/material-ui/issues/29703) in [mui/material-ui](https://github.com/mui/material-ui)
 5. ❌ Closed PR [#23810](https://github.com/microsoft/fluentui/pull/23810) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
 6. 💪 Opened PR [#23932](https://github.com/microsoft/fluentui/pull/23932) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
